@@ -1,0 +1,8 @@
+C:\Users\paral\source\repos\DesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\paral\source\repos\DesignPatterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\paral\source\repos\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\paral\source\repos\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\paral\source\repos\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.SuggestedBindingRedirects.cache
+C:\Users\paral\source\repos\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\paral\source\repos\DesignPatterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\paral\source\repos\DesignPatterns\Bridge\obj\Debug\Bridge.pdb

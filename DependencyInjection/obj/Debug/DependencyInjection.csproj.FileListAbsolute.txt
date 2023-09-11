@@ -1,0 +1,11 @@
+C:\Users\paral\source\repos\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\paral\source\repos\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\paral\source\repos\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\paral\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\paral\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.SuggestedBindingRedirects.cache
+C:\Users\paral\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\paral\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\paral\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Users\paral\source\repos\DesignPatterns\DependencyInjection\bin\Debug\Ninject.dll
+C:\Users\paral\source\repos\DesignPatterns\DependencyInjection\bin\Debug\Ninject.xml
+C:\Users\paral\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CopyComplete
